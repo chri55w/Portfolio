@@ -7,14 +7,38 @@ img: img/Experience/Teesside University/Logo.png
 modalID: TeessideUniversity
 category: Education
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+**BSc (Hons) Computer Games Programming**
+-----------------------------------------
+As a student at Teesside University from 2013 - 2017 I have studied a variety of  different modules related to Games Programming and Software development, Below is a breakdown of the areas I have studied.
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-```csharp
-if (true)
-{
-    DoSomething();
-}
-```
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+
+***Year One -*** 
+
+Mathematics For Visualisation.
+
+Computer and Mobile Technologies.
+
+Games Middleware.
+
+C++ Programming.
+
+Systems Design and Databases.
+
+***Year Two -***
+3D Graphics Programming.
+Animation & Simulation Programming.
+Multi-Modal Interfaces for Games.
+Games Engine Construction.
+Networking and Concurrent Programming.
+Game Jam.
+
+***Year Three -***
+Mobile Games Development.
+Multiplayer and Social Games.
+Advanced Games Development.
+AI For Games.
+Computing Project.
+
+## More Information ##
+Whilst most modules focused on individual work, some had group elements including Advanced Games Development in which I worked with a group of 9 other students from multiple disciplines to produce a working game demo.

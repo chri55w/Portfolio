@@ -14,17 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Christopher Walters
-email: your-email@domain.com
+email: info@chris-walters.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   Student | Games Programmer | Software Engineer
 baseurl: ""
 url: ""
 
 # Social media profiles - feel free to add more here
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
-stackoverflow_url: https://
-linkedin_url: https://
+github_username:  chri55w
+stackoverflow_url: https://stackoverflow.com/users/7497466/chris-walters?tab=profile
+linkedin_url: https://www.linkedin.com/in/chri55w/
 
 # Address information
 address_city: Middlesbrough
