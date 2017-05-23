@@ -7,21 +7,29 @@
                 <hr class="Section-Divider-E0FBFC">
             </div>
         </div>
-        <div class="row">            
-            {% for post in site.categories.experience %}
-                {% if {{post.is_blog == false }} %}
-                <div class="col-sm-4 experience-item">
-                    <a href="#{{ post.modalID }}" class="experience-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
+        {% for post in site.categories.experience %}
+
+        {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+
+        {% if modulo == '0' or forloop.first %}
+        <div class="DisplayRow">
+            {% endif %}
+
+            <div class="col-sm-4 experience-item">
+                <a href="#{{ post.modalID }}" class="experience-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
                         </div>
-                        <img src="{{ site.baseurl }}/{{ post.img }}" class="img-responsive" alt="">
-                    </a>
-                </div>
-                {% endif %}
-            {% endfor %}
+                    </div>
+                    <img src="{{ site.baseurl }}/{{ post.img }}" class="img-responsive" alt="">
+                </a>
+            </div>
+
+            {% if modulo == '2' or forloop.last %}
         </div>
+        {% endif %}
+
+        {% endfor %}
     </div>
 </section>

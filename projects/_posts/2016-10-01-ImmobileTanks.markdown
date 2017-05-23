@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Spice My Sponza"
-date:   2014-06-01 15:08:10 -0500
-img: img/Sponza/Logo.png
-modalID: SpiceMySponza
-category: Graphics Programming
+title:  "Immobile Tanks"
+date:   2014-10-01 15:08:10 -0500
+img: img/Immobile Tanks/Logo.png
+modalID: ImmobileTanks
+category: iOSDevelopment
 ---
 Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 

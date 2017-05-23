@@ -37,7 +37,7 @@
                         </div>
                         <div class="modal-blog" id="modal-blog">
                             <h3>Blog Posts</h3>
-                            {% for blog_post in site.categories.projects %}
+                            {% for blog_post in site.categories.blogs %}
                                 {% if {{blog_post.blog_name == post.modalID }} %}
                                     {{ blog_post.content }}
                                 {% endif %%}
