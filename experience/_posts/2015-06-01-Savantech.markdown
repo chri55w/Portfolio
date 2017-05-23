@@ -1,5 +1,5 @@
 ---
-blog_name: ""
+has_blog: "false"
 layout: post
 title:  "Savantech Limited"
 date:   2015-06-01 15:08:10 -0500
@@ -7,14 +7,61 @@ img: img/Experience/Savantech/Logo.png
 modalID: Savantech
 category: Software Engineering
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+## Employment Details
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
-```csharp
-if (true)
-{
-    DoSomething();
-}
-```
+<br/>
+<div style="margin:0 auto; display:table; border">
+	<table border="1">
+		<td width="115">
+			<b>From</b>
+		</td>
+		<td width="115">
+			<b>To</b>
+		</td>
+		<td>
+			<b>Role</b>
+		</td>
+		<tr>
+			<td>
+				July 2015
+			</td>
+			<td>
+				September 2016
+			</td>
+			<td width="280">
+				Junior Software Engineer (Placement)
+			</td>
+        </tr>
+	</table>
+	<br/>
+	<table border="1">
+		<td width="115">
+			<b>From</b>
+		</td>
+		<td width="115">
+			<b>To</b>
+		</td>
+		<td>
+			<b>Role</b>
+		</td>
+		<tr>
+			<td>
+				October 2017
+			</td>
+			<td>
+				Present
+			</td>
+			<td width="280">
+				Part Time Software Engineer
+			</td>
+        </tr>
+	</table>
+</div>
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+<br/>
+<br/>
+## Job Role
+My role as a Junior Software Engineer (Placement) at Savantech focused largely on the development of C# applications driven by large SQL server Databases both for client projects and internal developments. I developed several WPF applications, a Windows Service Application and supported and maintaned a large ASP.Net web application. I was often in contact directly with clients throughout development processes and support calls during my full time contract.
+<br/>
+<br/>
+Since moving to a part time role during my final year of university most of my work has been focused on internal developments to imporove procedured and efficiency through improved software soloutions. My work in this area is still ongoing and will continue until late august following a change back to full time employment in early June.
