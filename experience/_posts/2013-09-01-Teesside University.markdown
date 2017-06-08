@@ -36,7 +36,7 @@ As a student at Teesside University from 2013 - 2017 I have studied a variety of
 	</ul>
 </p>
 <p style="text-align:left;">
-	<b>Year Three -</b> <br />
+	<b>Year Three (TBC) -</b> <br />
 	<ul style="text-align:left;">
 		<li>Mobile Games Development.</li>
 		<li>Multiplayer and Social Games</li>

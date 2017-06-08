@@ -2,8 +2,52 @@
 has_blog: "false"
 layout: post
 title:  "Roadkill"
-date:   2014-06-01 15:08:10 -0500
+date:   2016-10-01 15:08:10 -0500
 img: img/Roadkill/Logo.png
 modalID: Roadkill
 category: Unity3D
 ---
+
+<div>
+	<iframe width="720" height="405" src="https://www.youtube.com/embed/pOUubM9BSV8?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+<div style="display:flow-root;">
+	<div style="float:left;">
+		<p style="margin-left:5px; text-align:Left; font-weight:bold;">Arcade Racing Game</p>
+		<p style="margin-left:5px; text-align:Left; font-weight:bold;">Split-Screen Multiplayer</p>
+		<p style="margin-left:5px; text-align:Left; font-weight:bold;">Group Project</p>
+		<p style="margin-left:5px; text-align:Left; font-weight:bold;">Unity3D</p>
+	</div>
+
+	<div style="float:right; display:inline-table;">
+		<p style="text-align:right; font-weight:bold;">Team Members</p>
+		<ul style="text-align:right; list-style-type:none;">
+			<li><a href="https://www.linkedin.com/in/michael-hopwood-48291a138/?ppe=1">Joshua Beech (Programmer)</a></li>
+			<li><a href="https://uk.linkedin.com/in/krissy-volo-9285a2113">Krissy Volo (Artist)</a></li>
+			<li><a href="https://uk.linkedin.com/in/mollyentwistle">Molly Entwistle (Artist)</a></li>
+			<li><a href="https://www.linkedin.com/in/nicogaballonie/">Nico Gaballonie (Artist)</a></li>
+			<li><a href="https://www.linkedin.com/in/lawrence-middleton-7586429b/">Lawrence Middleton (Artist)</a></li>
+			<li><a href="https://www.linkedin.com/in/ryanharleejones/">Ryan Jones (Artist)</a></li>
+			<li><a href="https://www.linkedin.com/in/michael-howe-a36936a5/">Michael Howe (Designer)</a></li>
+			<li><a href="https://www.linkedin.com/in/lewis-ahmedgamedesign/?ppe=1">Lewis Ahmed (Designer)</a></li>
+			<li>Ben Clarke (Designer)</li>
+			<li><a href="https://www.linkedin.com/in/michael-hopwood-48291a138/?ppe=1">Michael Hopwood (Animator)</a></li>
+		</ul>
+	</div>
+</div>
+<p style="text-align:Justify">Roadkill was developed during a 14-week semester in a team of 11 students; 5 Artists, 3 Designers, 2 Programmers and 1 Animator (Listed Below). Working in Unity3D with C# we successfully implemented a variety of features including basic racing mechanics, artificial intelligence and power ups. In the sections below I will discuss some of the features that I worked on.</p>
+
+<br />
+<p style="text-align:Left; font-weight:bold;">Driving Mechanics</p>
+<p style="text-align:Justify">As the core mechanic of our game, smooth driving was the primary focus of development for the first few weeks. Much of the work in this area was pair-programmed whilst we attempted to find a technique that suited the game. The final implementation was inspired by the mechanics in the game Obilteracers, developed by Space Dust Studios.<br /><br /><a href="https://www.youtube.com/watch?v=LG1CtlFRmpU">This short video</a> released by the developers guided us to the design that we required, once this was complete we could better separate the programming tasks and continue our development.</p>
+
+<br /><br />
+<p style="text-align:Left; font-weight:bold;">Bezier Spline Tool</p>
+<img src="{{ site.baseurl }}/img/Roadkill/Bezier Spline.png" class="img-responsive img-centered" alt="">
+<p style="text-align:Justify">Part way through the project we realised that modular track pieces did not suit the style of game that we aimed to create. To help the designers in creating a smooth and easily maintainable track I developed a Bezier spline tool in the Unity Editor which extruded a mesh along the modified curve. This technique allowed tweaks and improvements continually throughout the development process and would drastically reduce the time required to prototype and develop new tracks.<br /><br />This development later became particularly useful in the driving mechanics of the AI agents, Lap positioning and resetting kart positions.</p>
+
+<br /><br />
+<p style="text-align:Left; font-weight:bold;">Menus & HUD Elements</p>
+<img src="{{ site.baseurl }}/img/Roadkill/UI Elements.png" class="img-responsive img-centered" alt="">
+<p style="text-align:Justify">I also implemented a variety of UI Elements, such as the in-game HUD, including setup for multiplayer split-screen, and the setup menus which involved a multiplayer character selection screen, generic race setup and track selection.</p>
+
