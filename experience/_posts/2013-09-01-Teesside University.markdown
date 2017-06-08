@@ -2,7 +2,7 @@
 has_blog: "false"
 layout: post
 title:  "Teesside University"
-date:   2013-06-01 15:08:10 -0500
+date:   2013-09-01 15:08:10 -0500
 img: img/Experience/Teesside University/Logo.png
 modalID: TeessideUniversity
 category: Education

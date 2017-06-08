@@ -17,6 +17,7 @@ category: Unity3D
 		<p style="margin-left:5px; text-align:Left; font-weight:bold;">Split-Screen Multiplayer</p>
 		<p style="margin-left:5px; text-align:Left; font-weight:bold;">Group Project</p>
 		<p style="margin-left:5px; text-align:Left; font-weight:bold;">Unity3D</p>
+		<p style="margin-left:5px; text-align:Left; font-weight:bold;">Grade: 76%</p>
 	</div>
 
 	<div style="float:right; display:inline-table;">

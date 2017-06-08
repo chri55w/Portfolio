@@ -12,6 +12,7 @@ category: C++ Development
 <div>
 	<p style="margin-left:5px; text-align:Left; font-weight:bold;">C++ Development</p>
 	<p style="margin-left:5px; text-align:Left; font-weight:bold;">Artificial Intelligence</p>
+	<p style="margin-left:5px; text-align:Left; font-weight:bold;">Grade: 86%</p>
 </div>
 
 <br />
